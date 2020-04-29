@@ -1,2 +1,2 @@
 下载完使用npm i
-然后npm run dev
+然后npm run deva 
